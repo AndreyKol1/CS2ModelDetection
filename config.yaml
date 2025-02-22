@@ -1,7 +1,0 @@
-path: C:/Users/koliu/OneDrive/Рабочий стол/yoloPlay/dataset
-train: images/train
-val:  images/val
-
-names:
-  0: "T"
-  1: "CT"
