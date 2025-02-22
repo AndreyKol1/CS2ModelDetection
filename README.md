@@ -1,4 +1,7 @@
 # CS2ModelDetection
+
+![Image](https://github.com/user-attachments/assets/1eeff193-3b51-430a-9317-5e058f1b4bc8)
+
 CS2ModelDetection is a project aimed at detecting models in Counter-Strike 2 (CS2) using a custom YOLO11 model. The system captures live gameplay(recorded videos and photos as well), processes the frames in real time with YOLO11, and overlays bounding boxes and labels onto detected models. This project demonstrates real-time object detection in a gaming environment.
 
 <toc>
